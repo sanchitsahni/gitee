@@ -56,7 +56,7 @@ Navigate to `https://gitee.com/$USER/$REPO/issues` and create these issues.
    - **Permissions**:
      - Contents: Read and Write
      - Issues: Read and Write
-3. Copy token (starts with gitee_pat_)
+3. Copy token (starts with xxxxx)
 
 ### 5. Mythic Configuration
 
@@ -68,7 +68,7 @@ Configure the C2 profile with:
     "repo": "repository_name",
     "server_issue": 1,
     "client_issue": 2,
-    "gitee_token": "gitee_pat_xxxxx",
+    "gitee_token": "xxxxxxxxxx",
     "webhook_secret": "your_secret",
     "port": "1234"
 }

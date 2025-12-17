@@ -24,7 +24,7 @@ class Gitee(C2Profile):
         C2ProfileParameter(
             name="gitee_token",
             description="Gitee Personal Access Token used to programatically access Gitee",
-            default_value="gitee_pat_XXXXXX",
+            default_value="xxxxxXXXXXX",
             required=True,
         ),
         C2ProfileParameter(
